@@ -1,0 +1,15 @@
+D:\GB\gitTask\С#\Task 5\36\bin\Debug\net6.0\36.exe
+D:\GB\gitTask\С#\Task 5\36\bin\Debug\net6.0\36.deps.json
+D:\GB\gitTask\С#\Task 5\36\bin\Debug\net6.0\36.runtimeconfig.json
+D:\GB\gitTask\С#\Task 5\36\bin\Debug\net6.0\36.dll
+D:\GB\gitTask\С#\Task 5\36\bin\Debug\net6.0\ref\36.dll
+D:\GB\gitTask\С#\Task 5\36\bin\Debug\net6.0\36.pdb
+D:\GB\gitTask\С#\Task 5\36\obj\Debug\net6.0\36.csproj.AssemblyReference.cache
+D:\GB\gitTask\С#\Task 5\36\obj\Debug\net6.0\36.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\gitTask\С#\Task 5\36\obj\Debug\net6.0\36.AssemblyInfoInputs.cache
+D:\GB\gitTask\С#\Task 5\36\obj\Debug\net6.0\36.AssemblyInfo.cs
+D:\GB\gitTask\С#\Task 5\36\obj\Debug\net6.0\36.csproj.CoreCompileInputs.cache
+D:\GB\gitTask\С#\Task 5\36\obj\Debug\net6.0\36.dll
+D:\GB\gitTask\С#\Task 5\36\obj\Debug\net6.0\ref\36.dll
+D:\GB\gitTask\С#\Task 5\36\obj\Debug\net6.0\36.pdb
+D:\GB\gitTask\С#\Task 5\36\obj\Debug\net6.0\36.genruntimeconfig.cache
