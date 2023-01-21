@@ -1,0 +1,15 @@
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\obj\Debug\net6.0\41.csproj.AssemblyReference.cache
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\obj\Debug\net6.0\41.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\obj\Debug\net6.0\41.AssemblyInfoInputs.cache
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\obj\Debug\net6.0\41.AssemblyInfo.cs
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\obj\Debug\net6.0\41.csproj.CoreCompileInputs.cache
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\bin\Debug\net6.0\41.exe
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\bin\Debug\net6.0\41.deps.json
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\bin\Debug\net6.0\41.runtimeconfig.json
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\bin\Debug\net6.0\41.dll
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\bin\Debug\net6.0\ref\41.dll
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\bin\Debug\net6.0\41.pdb
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\obj\Debug\net6.0\41.dll
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\obj\Debug\net6.0\ref\41.dll
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\obj\Debug\net6.0\41.pdb
+D:\GB\gitTask\С#\GB_Hometask\Task6\41\obj\Debug\net6.0\41.genruntimeconfig.cache
